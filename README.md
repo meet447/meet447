@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meet447" alt="meet447" /></a> </p>
 
-- 🔭 I’m currently working on [Pure Python Based Realtime chatting app with ai integration!](https://github.com/meet447/MeuxChat)
+- 🔭 I’m currently working on [Python Visual Novel engine!](https://github.com/meet447/Pyson-Engine)
 
 - 📫 How to reach me **meet.sonawane2015@gmail.com**
 
