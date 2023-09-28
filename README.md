@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Meet Sonawane</h1>
-<h3 align="center">A passionate Student Who like coding</h3>
+<h3 align="center">I like coding</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meet447&label=Profile%20views&color=0e75b6&style=flat" alt="meet447" /> </p>
 
