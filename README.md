@@ -15,13 +15,6 @@
   💬 Discord: <strong>maouisreal</strong>
 </p>
 
-<h3 align="center">Connect with Me</h3>
-<p align="center">
-  <a href="https://instagram.com/immeet44" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-</p>
-
 <h3 align="center">Languages and Tools</h3>
 <p align="center">
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
