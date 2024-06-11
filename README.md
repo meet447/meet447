@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/meet447/Chipling-AI" target="_blank"><strong>🔭 Currently working on Chipling-AI</strong></a>
+  <a href="https://github.com/meet447/dokusha" target="_blank"><strong>🔭 Currently working on Dokusha</strong></a>
 </p>
 
 <h3 align="center">Contact Me</h3>
