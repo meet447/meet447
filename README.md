@@ -47,12 +47,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/meet447/meet447/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/meet447/count.svg?"  />
 </div>
