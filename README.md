@@ -1,52 +1,60 @@
-<h1 align="center">Hi 👋, I'm Meet Sonawane</h1>
-<h3 align="center">Passionate Developer</h3>
+<h2 align="left">Hi 👋! My name is Meet sonawane and I'm a  Web and App developer</h2>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=meet447&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+###
 
-<p align="center">
-  <a href="https://github.com/meet447/dokusha" target="_blank"><strong>🔭 Currently working on Dokusha</strong></a>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=meet447&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=meet447&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-<h3 align="center">Contact Me</h3>
-<p align="center">
-  📧 meet.sonawane2015@gmail.com<br>
-  💬 Discord: <strong>maouisreal</strong>
-</p>
+###
 
-<h3 align="center">Languages and Tools</h3>
-<p align="center">
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=flask" height="30" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=django" height="30" alt="django logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
+</div>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/meet-sonawane/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
+  <a href="https://discordapp.com/users/maouisreal" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
+  <a href="https://www.paypal.com/paypalme/meet4477" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="paypal logo"  />
   </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://unity.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/>
-  </a>
-</p>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=meet447&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
+###
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=meet447&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
+<br clear="both">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meet447&" alt="GitHub Streak Stats" />
-</p>
+<img src="https://raw.githubusercontent.com/meet447/meet447/output/snake.svg" alt="Snake animation" />
 
-<h3 align="center">Freelance Work</h3>
-<p align="center">
-  Interested in collaborating or need a freelance developer? Contact me at <strong>meet.sonawane2015@gmail.com</strong> or on Discord: <strong>maouisreal</strong>.
-</p>
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/meet447/count.svg?"  />
+</div>
+
+###
