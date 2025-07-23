@@ -49,5 +49,5 @@
 ---
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/meet447/count.svg" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=meet447&color=green" alt="Profile Views" />
 </div>
