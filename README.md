@@ -1,5 +1,7 @@
-<h2 align="left">Hi 👋! I'm Meet Sonawane, a Web and App Developer.</h2>
-
+<h2 align="left">Hi 👋! I'm Meet Sonawane, a Full-Stack & Backend Developer.</h2>
+<p>
+I specialize in building robust backend systems and APIs, performing web scraping and reverse-engineering APIs, and creating full-stack applications using React, Next.js, and Vite. I enjoy designing scalable solutions and exploring automation and AI-driven projects.
+</p>
 ---
 
 <div align="center">
