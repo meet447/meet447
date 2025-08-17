@@ -67,3 +67,7 @@ I specialize in building robust backend systems and APIs, performing web scrapin
   <!-- Profile Views -->
   <img src="https://komarev.com/ghpvc/?username=meet447&color=green" alt="Profile Views" />
 </div>
+
+## 🤝 Let’s Connect
+
+I’m open to collaboration on AI, automation, and full-stack projects. Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/meet-sonawane/) or Discord.
