@@ -1,73 +1,87 @@
-<h2 align="left">Hi 👋! I'm Meet Sonawane</h2>
-<h4 align="left">Full-Stack & Backend Developer | APIs, Web Scraping, Automation, AI Projects</h4>
-
-<p>
-I specialize in building robust backend systems and APIs, performing web scraping and reverse-engineering APIs, and creating full-stack applications using React, Next.js, and Vite. I enjoy designing scalable solutions and exploring automation and AI-driven projects.
-</p>
-
----
-
 <div align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=meet447&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=meet447&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
+  <img src="https://user-images.githubusercontent.com/97839353/165997677-248c8b18-b26a-4b95-a20c-c76a917e7611.gif" width="30"/>
+  <h1>Hi, I'm Meet Sonawane 👋</h1>
+  <h3>Full-Stack & Backend Developer | APIs, Web Scraping, Automation, AI</h3>
 </div>
 
 ---
 
-<h3 align="center">Technologies I work with:</h3>
+### 🚀 About Me
+
+I specialize in building **robust backend systems and high-performance APIs**. My expertise lies in:
+
+* **Backend Development:** Designing scalable, efficient server-side applications.
+* **APIs & Reverse Engineering:** Creating and dissecting interfaces for data acquisition.
+* **Web Scraping & Automation:** Automating data collection and business processes.
+* **Full-Stack Development:** Delivering seamless user experiences with React, Next.js, and Vite.
+* **AI/ML Projects:** Exploring and integrating artificial intelligence solutions.
+
+I'm committed to designing **scalable and maintainable solutions** across the stack.
+
+---
+
+### 🛠️ Technologies & Tools
+
 <div align="center">
-  <!-- Frontend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="30" alt="React" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="Next.js" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" height="30" alt="Vite" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="30" alt="HTML5" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="30" alt="CSS3" />
+  <h4>Frontend</h4>
+  <p>
+    <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"></a>
+    <a href="#"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"></a>
+  </p>
+  
+  <h4>Backend & APIs</h4>
+  <p>
+    <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"></a>
+  </p>
 
-  <!-- Backend -->
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="30" alt="Python" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flask" height="30" alt="Flask" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=django" height="30" alt="Django" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="30" alt="Express" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="Node.js" />
-
-  <!-- Databases & Cloud -->
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="Firebase" />
+  <h4>Databases & Cloud</h4>
+  <p>
+    <a href="#"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"></a>
+    <a href="#"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"></a>
+    <a href="#"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"></a>
+  </p>
 </div>
 
 ---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=meet447&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&theme=gotham&line_height=25&hide_border=true" 
+       alt="Meet's GitHub Stats" 
+       width="48%" 
+       style="margin-right: 10px;"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meet447&layout=compact&langs_count=5&theme=gotham&hide_border=true" 
+       alt="Top Languages" 
+       width="48%"/>
+
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=meet447&color=blueviolet" alt="Profile Views" style="margin-top: 15px;"/>
+</div>
+
+---
+
+### 🤝 Let’s Connect
+
+I'm always open to collaboration on projects involving **AI, automation, or complex full-stack architecture**.
 
 <div align="center">
   <a href="https://www.linkedin.com/in/meet-sonawane/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://discordapp.com/users/maouisreal" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord" />
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
   <a href="https://www.paypal.com/paypalme/meet4477" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="PayPal" />
+    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal" />
   </a>
 </div>
 
----
-
-<div align="center">
-  <!-- Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=meet447&color=green" alt="Profile Views" />
-</div>
-
-## 🤝 Let’s Connect
-
-I’m open to collaboration on AI, automation, and full-stack projects. Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/meet-sonawane/) or Discord.
+<br>
