@@ -58,7 +58,7 @@ I'm committed to designing **scalable and maintainable solutions** across the st
 ### 📊 GitHub Activity
 
 <div align="center">
-  <img src="[https://github-readme-streak-stats.herokuapp.com/?user=meet447&theme=gotham&hide_border=true&border_radius=5&mode=weekly](https://github-readme-streak-stats.herokuapp.com/?user=meet447&)" 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meet447&" 
        alt="Meet's GitHub Streak" 
        width="48%" 
        style="margin-right: 10px;"/>
